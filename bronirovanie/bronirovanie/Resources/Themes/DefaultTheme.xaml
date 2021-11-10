@@ -12,7 +12,7 @@
         <Setter Property="BorderBrush" Value="#0000"></Setter>
     </Style>
     <Style TargetType="{x:Type Image}" x:Key="LogoImageStyle">
-        <Setter Property="Source" Value="Y:\Student\18ИП1,2\УП.07\1 подгруппа\Коровкина Любовь\bronirovanie\bronirovanie\Resources\Images\logotip.png"></Setter>
+        <Setter Property="Source" Value="../Images/logotip.png"></Setter>
         <Setter Property="Width" Value="100"></Setter>
         <Setter Property="Height" Value="100"></Setter>
         <Setter Property="Margin" Value="10,10,0,0"></Setter>
